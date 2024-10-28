@@ -26,7 +26,7 @@ const Hero = () => {
                     href="https://www.geeksforgeeks.org/why-to-use-python-for-web-development/"
                     className="rounded-sm bg-primary px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-primary/80"
                   >
-                    Pourquoi Python ?
+                    Pourquoi Python ? ccc
                   </Link>
                   <Link
                     href="https://wa.me/23752260368" 
