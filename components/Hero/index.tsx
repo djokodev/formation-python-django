@@ -18,8 +18,8 @@ const Hero = () => {
                   Développement Web avec Python et Django
                 </h1>
                 <p className="dark:text-body-color-dark mb-12 text-base !leading-relaxed text-body-color sm:text-lg md:text-xl">
-                  Vous souhaitez apprendre Python et vous lancer dans le développement d'applications web en utilisant le framework Django ?
-                  Vous êtes au bon endroit au bon moment, avec une méthode d'apprentissage personnalisée et toutes les ressources dont vous avez besoin.
+                Vous souhaitez apprendre Python et vous lancer dans le développement d&apos;applications web en utilisant le framework Django ?
+                Vous êtes au bon endroit au bon moment, avec une méthode d&apos;apprentissage personnalisée et toutes les ressources dont vous avez besoin.
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
