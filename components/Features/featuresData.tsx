@@ -59,7 +59,7 @@ const featuresData: Feature[] = [
     ),
     title: "Objectif 🎯",
     paragraph:
-      "Acquérir de solides bases en développement Python et Django, vous permettant de comprendre les concepts fondamentaux et les meilleures pratiques du développement web. Développer et mettre en production au moins 3 applications fonctionnelles, ce qui vous donnera une expérience concrète et un portfolio à montrer aux employeurs. Maîtriser les outils essentiels tels que les éditeurs de code, les systèmes de gestion de versions, et les environnements de déploiement. Être préparé à travailler en tant que développeur junior, avec les compétences requises pour intégrer une équipe et contribuer efficacement à des projets."
+      "Acquérir de solides bases en développement Python et Django, vous permettant de comprendre les concepts fondamentaux et les meilleures pratiques du développement web. Développer et mettre en production au moins 3 applications fonctionnelles, ce qui vous donnera une expérience concrète et un portfolio à montrer aux employeurs. Maîtriser les outils essentiels tels que les éditeurs de code, les systèmes de gestion de versions, et les environnements de déploiement."
 ,
   },
   {
